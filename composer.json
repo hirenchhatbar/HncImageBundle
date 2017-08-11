@@ -1,0 +1,31 @@
+{
+    "name" : "sfworker/image-bundle",
+    "description" : "Provides image manipulation functions",
+    "keywords" : [
+        "symfony",
+        "image",
+        "gd"
+    ],
+    "type" : "symfony-bundle",
+    "license" : "MIT",
+    "authors" : [{
+            "name" : "Hiren Chhatbar",
+            "homepage" : "https://github.com/hirenchhatbar"
+        }
+    ],
+    "require" : {
+        "intervention/image" : "^2.4"
+    },
+    "require-dev" : {},
+    "suggest" : {},
+    "autoload" : {
+        "psr-4" : {
+            "Sfworker\\ImageBundle\\" : ""
+        }
+    },
+    "extra" : {
+        "branch-alias" : {
+            "dev-master" : "1.0.x-dev"
+        }
+    }
+}
