@@ -1,6 +1,6 @@
 <?php
 
-namespace Sfworker\ImageBundle;
+namespace Hnc\ImageBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

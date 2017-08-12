@@ -1,6 +1,6 @@
 <?php
 
-namespace Sfworker\ImageBundle\DependencyInjection;
+namespace Hnc\ImageBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Sfworker\ImageBundle\DependencyInjection;
+namespace Hnc\ImageBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

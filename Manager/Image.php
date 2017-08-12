@@ -1,5 +1,5 @@
 <?php
-    namespace Sfworker\ImageBundle\Manager;
+    namespace Hnc\ImageBundle\Manager;
 
     use Intervention\Image\ImageManager;
 
